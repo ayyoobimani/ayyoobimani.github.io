@@ -86,7 +86,7 @@ author:
   location         : "Munich, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "https://scholar.google.com/citations?user=vtpOxL8AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=vtpOxL8AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ayyoobimani"
+  github           : "ayyoobimani"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://linkedin.com/in/ayyoob-imanigooghari-49abb68a/"
+  linkedin         : "ayyoob-imanigooghari-49abb68a"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
