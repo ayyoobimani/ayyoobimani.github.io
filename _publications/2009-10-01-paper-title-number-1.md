@@ -1,9 +1,9 @@
 ---
-title: "Graph-Based Multilingual Label Propagation for Low-Resource Part-of-Speech Tagging."
+title: "Deep neural networks for query expansion using word embeddings"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2022
-venue: 'Empirical Methods in Natural Language Processing'
-paperurl: 'https://arxiv.org/abs/2210.09840'
-citation: 'Imani, Ayyoob and Severini, Silvia and Sabet, Masoud Jalili and Yvon, Francois and Schuetze, Hinrich'
+date: 2018-11-8
+venue: 'Advances in Information Retrieval: 41st European Conference on IR Research, ECIR 2019, Cologne, Germany, April 14–18, 2019, Proceedings, Part II 41'
+paperurl: 'https://arxiv.org/pdf/1811.03514.pdf'
+citation: 'Ayyoob Imani, Amir Vakili, Ali Montazer, Azadeh Shakery'
 ---
