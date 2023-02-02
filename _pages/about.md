@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -5,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 
 I am a third year PhD student supervised by professor [Hinrich Schuetze](https://www.cis.uni-muenchen.de/schuetze/) at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/). My research is on Natural Language processing.
 
