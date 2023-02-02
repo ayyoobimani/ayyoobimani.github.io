@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
@@ -6,9 +6,15 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- -->
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a third year PhD student supervised by professor [Hinrich Schuetze](https://www.cis.uni-muenchen.de/schuetze/) at [Ludwig Maximilian University of Munich]{https://www.lmu.de/en/}. My research is on Natural Language processing.
+
+I have done research on applications of multilingual large language models for low-resource languages, representation learning, and cross-lingual transfer. I have examined the potential of high-resource language representations to enhance the performance of down-stream tasks in low-resource languages, as well as how can the synergy of having (a little amount of) data in many languages benefit better understanding of each language.  I am also currently investigating methods for improving the efficiency and interpretability of multilingual models.
+
+Before starting a PhD at LMU, I was a member of [Intelligent Information System Lab Laboratory]{https://ece.ut.ac.ir/en/%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA1} at [University of Tehran]{https://ut.ac.ir/en}, as a master student working under supervision of Dr. [Azadeh Shakery]{https://ece.ut.ac.ir/en/~shakery}. During my time there, my research centered on semantic matching for information retrieval systems.
+
+
 
 A data-driven personal website
 ======
