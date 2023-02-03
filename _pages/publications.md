@@ -53,7 +53,7 @@ author_profile: true
     Ayyoob ImaniGooghari, Masoud Jalili Sabet, Philipp Dufter, Michael Cysou, Hinrich Schütze<br/>
     ACL 2021  <br/>
     [<a href="https://arxiv.org/abs/2107.06632" target="_blank">Paper</a>] [<a href="https://github.com/cisnlp/parcoure"  
-  target="_blank">Repo</a>] [<a href="https://parcoure.cis.lmu.de"  
+  target="_blank">Repo</a>] [<a href="http://parcoure.cis.lmu.de"  
   target="_blank">Website</a>]
 	</li>
   <li>
