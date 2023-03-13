@@ -43,14 +43,14 @@ author_profile: true
 	</li>
   <li>
     <b>Graph algorithms for multiparallel word alignment.</b><br/>
-    Ayyoob Imani, Masoud Jalili Sabet, Lütfi Kerem Şenel, Philipp Dufter, François Yvon, Hinrich Schütze<br/>
+    <u>Ayyoob Imani</u>, Masoud Jalili Sabet, Lütfi Kerem Şenel, Philipp Dufter, François Yvon, Hinrich Schütze<br/>
     EMNLP 2021  <br/>
     [<a href="https://arxiv.org/pdf/2109.06283.pdf" target="_blank">Paper</a>] [<a href="https://github.com/cisnlp/graph-align"  
   target="_blank">Repo</a>]
 	</li>
   <li>
     <b>ParCourE: A Parallel Corpus Explorer for a Massively Multilingual Corpus.</b><br/>
-    Ayyoob ImaniGooghari, Masoud Jalili Sabet, Philipp Dufter, Michael Cysou, Hinrich Schütze<br/>
+    <u>Ayyoob Imani</u>, Masoud Jalili Sabet, Philipp Dufter, Michael Cysou, Hinrich Schütze<br/>
     ACL 2021  <br/>
     [<a href="https://arxiv.org/abs/2107.06632" target="_blank">Paper</a>] [<a href="https://github.com/cisnlp/parcoure"  
   target="_blank">Repo</a>] [<a href="http://parcoure.cis.lmu.de"  
@@ -58,13 +58,13 @@ author_profile: true
 	</li>
   <li>
     <b>An Axiomatic Study of Query Terms Order in Ad-hoc Retrieval.</b><br/>
-    Ayyoob Imani, Amir Vakili, Ali Montazer, Azadeh Shakery<br/>
+    <u>Ayyoob Imani</u>, Amir Vakili, Ali Montazer, Azadeh Shakery<br/>
     ECIR 2019  <br/>
     [<a href="https://arxiv.org/abs/1811.03569" target="_blank">Paper</a>]
 	</li>
   <li>
     <b>Deep Neural Networks for Query Expansion using Word Embeddings.</b><br/>
-    Ayyoob Imani, Amir Vakili, Ali Montazer, Azadeh Shakery<br/>
+    <u>Ayyoob Imani</u>, Amir Vakili, Ali Montazer, Azadeh Shakery<br/>
     ECIR 2019  <br/>
     [<a href="https://arxiv.org/abs/1811.03514" target="_blank">Paper</a>]
 	</li>
