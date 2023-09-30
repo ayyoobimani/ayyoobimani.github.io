@@ -12,14 +12,30 @@ author_profile: true
 {% include base_path %}
 
 <ul class="sparse-list">
-
+          
+  <li>
+	  <b>Glot500: Scaling Multilingual Corpora and Language Models to 500 Languages.</b><br/>
+	  <u>Ayyoob Imani</u>, Peiqin Lin, Amir Hossein Kargaran, Silvia Severini, Masoud Jalili Sabet, Nora Kassner, Chunlan Ma, Helmut Schmid, André FT Martins, François Yvon, Hinrich Schütze <br>
+	[<a href="https://aclanthology.org/2023.acl-long.61/" target="_blank">Paper</a>]	    
+	[<a href="https://github.com/ayyoobimani/GLP-POS" target="_blank">code</a>]	    
+  <li>
+	  <b>RET-LLM: Towards a General Read-Write Memory for Large Language Models</b><br/>
+	  Ali Modarressi*, <u>Ayyoob Imani*</u>, Mohsen Fayyaz, Hinrich Schütze <br>
+	[<a href="https://arxiv.org/pdf/2305.14322.pdf" target="_blank">Paper</a>]	  
+  </li>        
+          
+  <li>
+	<b>A Dataset for Multilingual Text Classification in 1500 Languages.</b><br/>
+	Chunlan Ma, <u>Ayyoob Imani</u>,  Haotian Ye, Ehsaneddin Asgari, Hinrich Schütze<br/>
+	[<a href="https://arxiv.org/abs/2305.08487" target="_blank">Paper</a>] [<a href="https://github.com/cisnlp/Taxi1500" target="_blank">code</a>]
+  </li>
   <li>
     <b>Graph-Based Multilingual Label Propagation for Low-Resource Part-of-Speech Tagging.</b><br/>
     <u>Ayyoob Imani*</u>, Silvia Severini*, Masoud Jalili Sabet, François Yvon, Hinrich Schütze.<br/>
     EMNLP, 2022. <br/>
     [<a href="https://arxiv.org/abs/2210.09840" target="_blank">Paper</a>] [<a href="https://github.com/ayyoobimani/GLP-POS"  
   target="_blank">Repo</a>]
-	</li>
+  </li>
   <li>
     <b>Λ-DARTS: Mitigating Performance Collapse by Harmonizing Operation Selection among Cells.</b><br/>
     Sajad Movahedi, Melika Adabinejad, <u> Ayyoob Imani</u>, Arezou Keshavarz, Mostafa Dehghani, Azadeh Shakery, Babak N Araabi<br/>
