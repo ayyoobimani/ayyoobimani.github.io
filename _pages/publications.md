@@ -17,7 +17,7 @@ author_profile: true
 	  <b>Glot500: Scaling Multilingual Corpora and Language Models to 500 Languages.</b><br/>
 	  <u>Ayyoob Imani</u>, Peiqin Lin, Amir Hossein Kargaran, Silvia Severini, Masoud Jalili Sabet, Nora Kassner, Chunlan Ma, Helmut Schmid, André FT Martins, François Yvon, Hinrich Schütze <br>
 	[<a href="https://aclanthology.org/2023.acl-long.61/" target="_blank">Paper</a>]	    
-	[<a href="https://github.com/ayyoobimani/GLP-POS" target="_blank">code</a>]	    
+	[<a href="https://github.com/cisnlp/Glot500" target="_blank">code</a>]	    
   <li>
 	  <b>RET-LLM: Towards a General Read-Write Memory for Large Language Models</b><br/>
 	  Ali Modarressi*, <u>Ayyoob Imani*</u>, Mohsen Fayyaz, Hinrich Schütze <br>
