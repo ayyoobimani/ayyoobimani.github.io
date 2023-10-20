@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 I am a third year PhD student supervised by professor [Hinrich Schuetze](https://scholar.google.com/citations?user=qIL9dWUAAAAJ&hl=en) at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/). Currently I'm doing an internship at [Microsoft](https://www.microsoft.com/). My research foci is models for very low-resource languages and parameter efficiency of large language models.
-I am a third year PhD student supervised by professor Hinrich Schuetze at Ludwig Maximilian University of Munich.
 
 I have done research on applications of multilingual large language models for low-resource languages, representation learning, and cross-lingual transfer. I have examined the potential of high-resource language representations to enhance the performance of down-stream tasks in low-resource languages, as well as how can the synergy of having (a little amount of) data in many languages benefit better understanding of each language.  I am also currently investigating methods for improving the efficiency and interpretability of multilingual models.
 
